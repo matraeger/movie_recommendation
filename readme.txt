@@ -5,7 +5,7 @@ for the edX course:
 HarvardX: PH125.9x Data Science: Capstone
 
 author:	Mario Träger
-date:	Juli 28, 2021
+date:	July 28, 2021 (slightly modified on July 02, 2022)
 
 
 MovieLensProject.R		-  R code for the MovieLens project
